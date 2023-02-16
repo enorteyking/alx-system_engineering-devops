@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..z}{a..z}\'oo'
+echo {a..z}{a..z}\o\o
